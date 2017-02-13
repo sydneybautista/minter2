@@ -1,0 +1,12 @@
+Step 1: Start
+Step 2: Declare the variables, num1, num2
+Step 3: Input variables
+Step 4: Add num1 and num2, declare answer as sum
+Step 5: Display sum
+Step 6: Subtract num1 from num2, declare answer as difference
+Step 7: Display difference
+Step 8: Multiply num1 by num2, declare answer as product
+Step 9: Display product
+Step 10: Divide num1 by num2, declare answer as quotient
+Step 11: Display quotient
+Step 12: Stop

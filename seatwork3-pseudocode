@@ -1,0 +1,19 @@
+Start
+user should input variable
+if user inputs variable between 97-100
+show equivalent grade as 4.0
+if user inputs variable between 93-96 
+show equivalent grade as 3.5
+if user inputs variable between 89-92 
+show equivalent grade as 3.0
+if user inputs variable between 85-88 
+show equivalent grade as 2.5
+if user inputs variable between 80-84 
+show equivalent grade as 2.0
+if user inputs variable between 75-79 
+show equivalent grade as 1.5 
+if user inputs variable between 70-74 
+show equivalent grade as 1.0
+if user inputs variable below 70
+show equivalent grade as 0
+Stop
